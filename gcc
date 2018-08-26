@@ -10,3 +10,4 @@ also, there is a need to save costs in updating applications, such as eclipses.
 ---- stage 2 ----
 how to make good use of gcc here. 
 http://gcc.gnu.org/wiki
+the other side, this is open source, and we would have to reply on the gcc, for a translation. (internal control)
