@@ -1,2 +1,10 @@
 http://man.linuxde.net/gcc
 https://blog.csdn.net/waldmer/article/details/16862295
+http://blog.sina.com.cn/s/blog_4f5f412701000c6t.html
+
+the purpose of using gcc is to adopt the advantage of compliers, and translate advanced programming languages into lower level langauges.
+that is, we will take advantage of the unix commands here and move code to 1 or 0.
+also, there is a need to save costs in updating applications, such as eclipses.
+
+---- stage 2 ----
+how to make good use of gcc here. 
